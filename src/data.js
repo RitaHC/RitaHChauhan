@@ -4,8 +4,17 @@ export const projects = [
       subtitle: "MERN Stack",
       description:
         "An e-commerce shopping application with Stripe payment link and download link for the payment receipt!",
-      image: "./FashionHolic.gif",
+      image: "./shopoholic1.gif",
       link: "https://fashion-shopping-app.netlify.app/",
+    },
+    ,
+    {
+      title: "Raven-Hunt",
+      subtitle: "HTML-Canvas / Sprite-Animation-Game",
+      description:
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      image: "./RavenHunt.gif",
+      link: "https://ritahc.github.io/Raven-Hunt/",
     },
     {
       title: "Food-App",
@@ -16,25 +25,49 @@ export const projects = [
       link: "https://projectfood.fly.dev/",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
+      title: "Particle Effect Game",
+      subtitle: "HTML Canvas / CSS/ Java Script",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
-      link: "https://jsbootcamp.com",
+        "New Particles keeps appearing as the cursor moves",
+      image: "./ParticleEffect.gif",
+      link: "https://ritahc.github.io/Particle-Animation/",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "Advice-Generator",
+      subtitle: "3rd-Party-API-Call",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://pythonbootcamp.com",
+        "Upon Clicking the diced button, every time a new text appearts in the advice box",
+      image: "./AdviceGenerator.gif",
+      link: "https://ritahc.github.io/Advice-Generator-/",
+    },
+    {
+      title: "Burger-Stacker",
+      subtitle: "React-Hooks",
+      description:
+        "Upon Clicking the ingredients on the left side, one can create a burger stacker on the right side and also clear it",
+      image: "./BurgerStacker.gif",
+      link: "https://coruscating-fox-9cd2b3.netlify.app/"
+    },
+    {
+      title: "House-Of-Dragons-Fanpage",
+      subtitle: "JavaScript-HTML-CSS",
+      description:
+        "Browse and view the details of your favourite character though our search functionality",
+      image: "./houseOfDragon.gif",
+      link: "https://ritahc.github.io/House-Of-Dragon-Fanpage/"
+    },
+    {
+      title: "Tic-Tac-Toe",
+      subtitle: "JavaScript-HTML-CSS",
+      description:
+        "Our simple and userfriendly Tic-Tac-Toe-Game",
+      image: "./TicTacToe.gif",
+      link: "https://ritahc.github.io/Tic-Tac-Toe-Project/"
     },
   ];
 
   export const skills = [
-     "JavaScript", "React", "MongoDb", "Node.js", "Express", "Python", "Django", "Sequel"
+     "JavaScript", "React", "MongoDb", "Node.js", "Express.js", "Python", "Django", "Sequel", "Node.js", "npm & it's packages", "Github", "Bootstrap", "Tailwind"
   ]
 
   export const testimonials = [
