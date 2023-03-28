@@ -1,17 +1,14 @@
 import { HiArrowCircleRight } from "react-icons/hi";
 import React from "react";
 import { Button } from 'react-bootstrap';
-import FileDownload from "js-file-download"
+
 import {AiFillLinkedin, AiFillGithub} from "react-icons/ai";
 import {HiArrowCircleDown}  from "react-icons/hi";
 
 
 export default function Navbar() {
    
-    const download = e => {
-        e.preventDefault()
-
-    }
+   
   return (
     <header className="bg-gray-800 md:sticky top-0 z-10">
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">

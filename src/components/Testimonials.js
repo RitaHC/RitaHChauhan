@@ -1,5 +1,5 @@
 import React from "react";
-import { HiTerminal, HiUserGroup } from "react-icons/hi";
+import {  HiUserGroup } from "react-icons/hi";
 import { testimonials } from "../data";
 
 export default function Testimonials() {

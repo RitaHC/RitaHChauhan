@@ -5,9 +5,8 @@ export const projects = [
       description:
         "An e-commerce shopping application with Stripe payment link and download link for the payment receipt!",
       image: "./shopoholic1.gif",
-      link: "https://fashion-shopping-app.netlify.app/",
+      link: "https://fashion-shopping-app.netlify.app/"
     },
-    ,
     {
       title: "Raven-Hunt",
       subtitle: "HTML-Canvas / Sprite-Animation-Game",
@@ -22,7 +21,7 @@ export const projects = [
       description:
         "Food Ordering application for a restraunt",
       image: "./foodApp.gif",
-      link: "https://projectfood.fly.dev/",
+      link: "https://projectfood.fly.dev/"
     },
     {
       title: "Particle Effect Game",
