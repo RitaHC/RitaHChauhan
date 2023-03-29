@@ -53,7 +53,7 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                444 Warren St. 2953<br />
+                444 Warren Street<br />
                 Jersey City, NJ 07302
               </p>
             </div>
