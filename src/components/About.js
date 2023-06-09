@@ -12,7 +12,7 @@ export default function About() {
           </h1>
           <h1 className="sm:text-3xl text-white">Full Stack Developer</h1>
           <p className="mb-8 leading-relaxed">
-          I am a software engineer with a unique combination of technical skills and legal expertise. My experience as a corporate and intellectual property attorney has given me the ability to solve complex problems in a fast-paced environment. I am a highly motivated individual with a track record of success in handling high-stakes matters with precision and efficiency, making me an ideal candidate for any organization looking for a driven, results-oriented individual.
+          I am a Lawyer turned Software Engineer, having 4 years of legal experience as a corporate and intellectual property attorney. As a Software Developer in a short span of 6 months I’ve worked on various frameworks like, JavaScript, Golang, Python, React, Next.js, Express.js, Node.js, MySql, PostgreSql, MongoDB, Html & Css additionally on GitHub, Jira & bitbucket. I am a highly motivated individual with a track record of success in handling high-stakes matters with precision and efficiency, making me an ideal candidate for any organization looking for a driven, results-oriented individual. Moreover, my aptitude for learning and adapting to new environments allows me to excel in collaborative settings and be a team player.
           </p>
           <div className="flex justify-center">
             <a

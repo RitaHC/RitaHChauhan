@@ -53,8 +53,8 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                444 Warren Street<br />
-                Jersey City, NJ 07302
+                200 Greene Street<br />
+                Jersey City, NJ 07311
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -62,7 +62,7 @@ export default function Contact() {
                 EMAIL
               </h2>
               <a href="/" className="text-indigo-400 leading-relaxed">
-                ritahchauhan3@gmail.com
+                ritahameerchauhan@email@gmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
