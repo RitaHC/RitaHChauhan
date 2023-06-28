@@ -3,7 +3,7 @@ import React from "react";
 import { Button } from 'react-bootstrap';
 
 import {AiFillLinkedin, AiFillGithub} from "react-icons/ai";
-
+import {HiArrowCircleDown}  from "react-icons/hi";
 
 
 export default function Navbar() {
