@@ -9,7 +9,7 @@ import Testimonials from './components/Testimonials';
 
 function App() {
   return (
-    <div  className="text-gray-400 bg-gray-900 body-font">
+    <div  className="text-gray-950 bg">
     
 
     <main>
@@ -18,7 +18,7 @@ function App() {
       <Projects/>
       <Skills />
       <Testimonials/>
-      <Contact/>
+      {/* <Contact/> */}
      
     </main>
 
