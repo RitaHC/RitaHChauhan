@@ -12,7 +12,7 @@ export default function About() {
           </h1>
           <h1 className="sm:text-3xl text-white">Software Developer</h1>
           <p className="mb-8 leading-relaxed">
-          I am a Lawyer turned Software Engineer, having 4 years of legal experience as a corporate and intellectual property attorney. As a Software Developer in a short span of 6 months I’ve worked on various frameworks like, JavaScript, Golang, Python, React, Next.js, Express.js, Node.js, MySql, PostgreSql, MongoDB, Html & Css additionally on GitHub, Jira & bitbucket. I am a highly motivated individual with a track record of success in handling high-stakes matters with precision and efficiency, making me an ideal candidate for any organization looking for a driven, results-oriented individual. Moreover, my aptitude for learning and adapting to new environments allows me to excel in collaborative settings and be a team player.
+          I am a Lawyer turned Software Engineer, having 4 years of legal experience as a corporate and intellectual property attorney. As a Software Developer I’ve worked on various frameworks like, JavaScript, Golang, Python, React, Next.js, Express.js, Node.js, MySql, PostgreSql, MongoDB, Html & Css additionally on GitHub, Jira & bitbucket. I am a highly motivated individual with a track record of success in handling high-stakes matters with precision and efficiency, making me an ideal candidate for any organization looking for a driven, results-oriented individual. Moreover, my aptitude for learning and adapting to new environments allows me to excel in collaborative settings and be a team player.
           </p>
           <div className="flex justify-center">
             {/* <a
@@ -28,12 +28,12 @@ export default function About() {
           </div>
         </div>
         <div className="lg:max-w-lg  rounded-l rounded-r">
-          <img
+          {/* <img
             className="object-cover max-h-80"
             alt="hero"
             src="./Transparent.png"
             
-          />
+          /> */}
         </div>
       </div>
     </section>
