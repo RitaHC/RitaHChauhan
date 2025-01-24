@@ -10,7 +10,7 @@ export default function Navbar() {
    
    
   return (
-    <header className=" md:sticky top-0 z-10">
+    <header className=" md:sticky top-0 z-10 bg-gray-300">
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
             <a href="/" className="title-font font-medium text-gray-950 mb-4 md:mb-0">
             <a href="#about" className="ml-3 text-xl text-gray-950 hover:text-red-600">
@@ -40,7 +40,7 @@ export default function Navbar() {
             </nav>
 
             <a href="./Resume -1.pdf">
-            <Button className=" text-white inline-flex items-center bg-red-600 border-0 py-1 px-3 focus:outline-none hover:bg-amber-800 rounded text-base mt-4 md:mt-0"  variant="secondary" size="lg" active>
+            <Button className=" text-white inline-flex items-center bg-green-600 border-0 py-1 px-3 focus:outline-none hover:bg-amber-800 rounded text-base mt-4 md:mt-0"  variant="secondary" size="lg" active>
                 Resume <HiArrowCircleDown/>
             </Button></a>
 
