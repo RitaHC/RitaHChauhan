@@ -39,7 +39,7 @@ export default function Navbar() {
                 
             </nav>
 
-            <a href="./Resume -1.pdf">
+            <a href="./Resume.pdf">
             <Button className=" text-white inline-flex items-center bg-green-600 border-0 py-1 px-3 focus:outline-none hover:bg-amber-800 rounded text-base mt-4 md:mt-0"  variant="secondary" size="lg" active>
                 Resume <HiArrowCircleDown/>
             </Button></a>
